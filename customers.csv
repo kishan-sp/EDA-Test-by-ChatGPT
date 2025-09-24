@@ -1,0 +1,9 @@
+customer_id,name,signup_date,city,age,gender
+C001,Amit Sharma,2024-02-12,Mumbai,28,M
+C002,Pooja Patel,2023-11-01,Ahmedabad,23,F
+C003,Raj Verma,2024-01-15,Delhi,35,M
+C004,Neha Gupta,2023-09-30,Bengaluru,41,F
+C005,Sameer Khan,2024-03-20,Mumbai,30,M
+C006,Ritu Mehta,2024-05-11,delhi,26,F
+C007,Sachin Joshi,2024-01-05,Mumbai,24,M
+C008,Divya Desai,2023-12-14,Ahmedabad,29,F

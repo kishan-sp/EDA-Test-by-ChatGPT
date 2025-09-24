@@ -1,0 +1,6 @@
+restaurant_id,restaurant_name,cuisine_type,rating,city
+R001,Spicy Treat,North Indian,4.2,Mumbai
+R002,Foodie Hub,Fast Food,4.0,Ahmedabad
+R003,Zaika Express,Mughlai,4.5,Delhi
+R004,Biryani Palace,Hyderabadi,3.8,Mumbai
+R005,foodie hub,Fast Food,4.1,Ahmedabad

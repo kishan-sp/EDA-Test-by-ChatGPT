@@ -1,0 +1,9 @@
+order_id,customer_id,restaurant_name,order_date,order_amount,payment_method
+O1001,C001,Spicy Treat,2024-06-15,450,Credit Card
+O1002,C002,Foodie Hub,2024-06-18,230,UPI
+O1003,C003,Zaika Express,2024-06-19,780,Cash
+O1004,C004,Foodie Hub,2024-06-20,560,UPI
+O1005,C005,Spicy Treat,2024-06-21,999,Credit Card
+O1006,C006,Zaika Express,2024-06-22,1500,Debit Card
+O1007,C007,Biryani Palace,2024-06-23,340,UPI
+O1008,C008,foodie hub,2024-06-24,1200,Credit Card
